@@ -19,7 +19,7 @@ Sistema web que permite cadastrar, atualizar e remover investimentos, reservas e
 3. Configure o arquivo de conexão com o banco de dados (config.php ou equivalente).
 4. Abra a aplicação em um servidor local (XAMPP, WAMP ou similar).
 5. Acesse via navegador: http://localhost/ALOG/LOGIN/login.php
-6. Faça login e conheça a plataforma usando E-mail (adm@alog.com) e Senha (alog).
+6. Faça login e conheça a plataforma usando E-mail "adm@alog.com" e Senha "alog".
 
-## Objetivo do Projeto
+# Objetivo do Projeto
 Demonstrar habilidades em desenvolvimento web, modelagem de banco de dados, programação em PHP e HTML/CSS, e criação de dashboards interativas, servindo como portfólio profissional para vagas de Analista de Sistemas Júnior ou Desenvolvedor.
